@@ -161,7 +161,7 @@ L'interface utilise :
 
 ## 📄 Licence
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+free : https://github.com/DanihStephane
 
 ## 🆘 Support
 
